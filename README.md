@@ -6,3 +6,5 @@
 - output.geojson is example of what is outputted to be inputted into the dashboard
 
 
+## UnderCustody
+- UnderCustodyGeo.R cleans and processes under custody data. Bins time variables, changes race/ethnicity keys, smaller format changes. Example outputs also included
